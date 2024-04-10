@@ -16,3 +16,8 @@ The "Moisterino" project is a culmination of efforts in the "Distributed Embedde
 
 ## License
 This project is subject to copyright and licensing terms as established by the Faculty of Computer Sciences and the Universidad Complutense de Madrid (UCM). Usage, distribution, and modification are regulated under these terms, with the intent of promoting open and collaborative academic and educational practices. For detailed information regarding the license, please refer to the official documentation provided by the faculty.
+
+#### Authors
+- Daniel Cabanas: https://github.com/cabannas
+- Santiago Vicente: https://github.com/Santivv
+- Hanjie Zhu: https://github.com/HJ-JK
