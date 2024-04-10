@@ -19,5 +19,4 @@ This project is subject to copyright and licensing terms as established by the F
 
 #### Authors
 - Daniel Cabanas: https://github.com/cabannas
-- Santiago Vicente: https://github.com/Santivv
 - Hanjie Zhu: https://github.com/HJ-JK
